@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # React Redux Course
 This is a course on React and Redux that starts from beginner and works up to advanced principles.
 
