@@ -8,3 +8,4 @@ This is a course on React and Redux that starts from beginner and works up to ad
 - [Jsx](https://github.com/sonnenbergmarc/jsx)
 - [Pdas](https://github.com/sonnenbergmarc/pdas)
 - [Pics](https://github.com/sonnenbergmarc/pics)
+- [Comps(Components)](https://github.com/sonnenbergmarc/comps)
